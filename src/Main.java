@@ -11,9 +11,9 @@ public class Main {
         // новую переменную и выводите на экран
 
         int price = 1000;
-        int mili = 20;
+        int miles = 20;
 
-        int bonus = (price / mili);
+        int bonus = (price / miles);
         System.out.println("Начисленные бонусные мили равны: " + bonus);
     }
 }
